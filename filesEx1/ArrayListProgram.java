@@ -8,7 +8,7 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+// This is here for archive reasons, do not use this solution.
 public class ArrayListProgram {
 	public static void main(String[] args) {
 
